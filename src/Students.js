@@ -66,7 +66,7 @@ function Students() {
               <table class="table table-bordered">
                 <thead>
                   <tr>
-                    <th scope="col">#ID</th>
+                    <th scope="col">ID</th>
                     <th scope="col">ADMISSION NO.</th>
                     <th scope="col">STUDENT NAME</th>
                     <th scope="col">CLASS</th>
